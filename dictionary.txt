@@ -1,0 +1,69 @@
+look | смотреть
+look forward | ожидать
+dog | собака
+cat | кошка
+hello | привет
+good morning | доброе утро
+good evening | добрый вечер
+good night | спокойной ночи
+goodbye | до свидания
+please | пожалуйста
+thank you | спасибо
+sorry | извини
+yes | да
+no | нет
+I | я
+you | ты
+we | мы
+they | они
+he | он
+she | она
+it | это
+man | мужчина
+woman | женщина
+child | ребёнок
+friend | друг
+family | семья
+house | дом
+home | дом
+school | школа
+work | работа
+book | книга
+water | вода
+food | еда
+bread | хлеб
+milk | молоко
+coffee | кофе
+tea | чай
+apple | яблоко
+day | день
+night | ночь
+today | сегодня
+tomorrow | завтра
+yesterday | вчера
+now | сейчас
+here | здесь
+there | там
+big | большой
+small | маленький
+good | хороший
+bad | плохой
+beautiful | красивый
+happy | счастливый
+love | любовь
+like | нравиться
+want | хотеть
+need | нуждаться
+go | идти
+come | приходить
+eat | есть
+drink | пить
+read | читать
+write | писать
+speak | говорить
+understand | понимать
+know | знать
+see | видеть
+hear | слышать
+make | делать
+help | помогать
